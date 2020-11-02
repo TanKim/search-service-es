@@ -1,6 +1,7 @@
 package com.search_service_es.intf;
 
 import com.search_service_es.dto.Employee;
+import com.search_service_es.dto.Wine;
 import org.springframework.http.HttpStatus;
 
 import java.io.IOException;
@@ -12,4 +13,6 @@ public interface service_intf {
     List<Employee> get_all_data() throws IOException;
 
     List<Employee> get_specific_docs(String search_string) throws IOException;
+
+    List<Wine> search_wine(String search_string) throws IOException;
 }

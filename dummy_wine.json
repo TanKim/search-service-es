@@ -1,0 +1,8 @@
+{"index": {"_id": "1"}}
+{"wineNm":"까베르네 소비뇽","wineNmEn":"Cabernet Sauvignon","sellerNm":"이마트","wineTypeNm":"레드","wineTypeNmEn":"Red"}
+{"index": {"_id": "2"}}
+{"wineNm":"샤르도네","wineNmEn":"Chardonnay","sellerNm":"이마트","wineTypeNm":"화이트","wineTypeNmEn":"White"}
+{"index": {"_id": "3"}}
+{"wineNm":"피노누아","wineNmEn":"Pinot Noir","sellerNm":"CU 편의점","wineTypeNm":"레드","wineTypeNmEn":"Red"}
+{"index": {"_id": "4"}}
+{"wineNm":"리슬링","wineNmEn":"Riesling","sellerNm":"홈플러스","wineTypeNm":"화이트","wineTypeNmEn":"White"}
